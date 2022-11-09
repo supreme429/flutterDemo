@@ -1,0 +1,6 @@
+analyzer:
+  enable-experiment:
+    - control-flow-collections
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
